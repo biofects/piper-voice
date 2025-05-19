@@ -6,11 +6,11 @@ After **26 hours** of training, here's the result! 🎉
 
 ---
 
-## 🎬 Demo Video
-<video src="https://github.com/biofects/piper-voice/raw/main/biofects-prime.mp4" controls width="100%" style="border-radius: 8px;">
-  Your browser does not support the video tag.
-</video>
+🎬 **Demo Video:**
 
+<video src="https://user-images.githubusercontent.com/25253813/445303259-aed9092c-45cc-4e33-96a8-cf6984ec393f.mp4" controls autoplay muted loop width="100%"></video>
+
+---
 
 > *(If the video doesn't load, [click here to download or view it directly](https://github.com/biofects/piper-voice/raw/main/biofects-prime.mp4).)*
 
