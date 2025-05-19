@@ -8,9 +8,11 @@ After **26 hours** of training, here's the result! 🎉
 
 ## 🎬 Demo Video
 
-<video src="https://github.com/biofects/piper-voice/raw/main/PXL_20250519_170320797.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
+<figure class="video_container">
+  <iframe src="biofects-prime.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
+
 
 > *(If the video doesn't load, [click here to download or view it directly](https://github.com/biofects/piper-voice/raw/main/PXL_20250519_170320797.mp4).)*
 
