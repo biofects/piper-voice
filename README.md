@@ -7,11 +7,8 @@ After **26 hours** of training, here's the result! 🎉
 ---
 
 ## 🎬 Demo Video
+https://github.com/biofects/piper-voice/raw/main/biofects-prime.mp4
 
-<figure class="video_container">
-  <iframe src="biofects-prime.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
 
 
 > *(If the video doesn't load, [click here to download or view it directly](https://github.com/biofects/piper-voice/raw/main/biofects-prime.mp4).)*
