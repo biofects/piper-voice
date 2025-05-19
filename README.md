@@ -56,6 +56,7 @@ I’ve always been fascinated by voice synthesis and wanted to try building a vo
 ## 🙌 Acknowledgements
 
 - [Piper TTS](https://github.com/rhasspy/piper) for the amazing TTS engine.
+- [ifansnek/piper-train-docker](https://hub.docker.com/r/ifansnek/piper-train-docker) for great working Docker image to train a voice (glad I didnt have to make this)
 - [Optimus Prime Voicelines Dataset](https://huggingface.co/datasets/srinivasbilla/optimus_prime_voicelines_hf) by [@srinivasbilla](https://huggingface.co/srinivasbilla)
 
 ---
