@@ -7,6 +7,7 @@ After **26 hours** of training, here's the result! 🎉
 ---
 
 ## 🎬 Demo Video
+# This repo has a video on its readme :p
 https://github.com/biofects/piper-voice/raw/main/biofects-prime.mp4
 
 
