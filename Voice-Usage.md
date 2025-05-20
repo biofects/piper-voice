@@ -19,7 +19,8 @@ If you find this plugin useful, please consider donating. Your support is greatl
 
 ## 📥 How to Use the Trained Voice
 
-Download the following files:
+
+You can download the trained voice files from the [latest release](https://github.com/biofects/piper-voice/releases/latest):
 
 - `biofects_prime.onnx`
 - `biofects_prime.onnx.json`
