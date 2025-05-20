@@ -60,4 +60,7 @@ I’ve always been fascinated by voice synthesis and wanted to try building a vo
 - [Optimus Prime Voicelines Dataset](https://huggingface.co/datasets/srinivasbilla/optimus_prime_voicelines_hf) by [@srinivasbilla](https://huggingface.co/srinivasbilla)
 
 ---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
 
