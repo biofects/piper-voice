@@ -41,6 +41,7 @@ I’ve always been fascinated by voice synthesis and wanted to try building a vo
 - Dataset cleaning and formatting
 - Training large TTS models with Piper
 - Voice evaluation and improvement
+- This voice is English-only for now.
 
 ---
 
