@@ -166,3 +166,9 @@ Multiply by the total steps (e.g., 200,000 steps):
 ```
 
 Training can be stopped early once validation loss plateaus or starts rising (overfitting). The model usually gets good results within 30k–100k steps, depending on data size and quality.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
