@@ -1,4 +1,4 @@
-🗣️ Piper TTS Training: Optimus Prime Voice
+🗣️ Piper TTS Training: Biofects Prime Voice
 This project demonstrates how to prepare and train a custom TTS voice using Piper, starting from a Hugging Face .parquet dataset.
 
 I hope I remembered everything I have done.
