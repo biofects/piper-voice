@@ -32,3 +32,8 @@ Place them in your Piper installation's `voices` directory, most likely under:
 
 
 This voice is **English-only** for now.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
