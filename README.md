@@ -62,5 +62,5 @@ I’ve always been fascinated by voice synthesis and wanted to try building a vo
 ---
 ## License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
