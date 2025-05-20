@@ -24,7 +24,7 @@ If you find this plugin useful, please consider donating. Your support is greatl
 ---
 
 
-## 🛠️ Training Setup
+## 🛠️ My Training Setup
 
 - **Engine**: [Piper TTS](https://github.com/rhasspy/piper)
 - **Training Time**: ~26 hours
