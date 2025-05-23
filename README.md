@@ -1,3 +1,4 @@
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%F0%9F%92%AA-purple?style=for-the-badge)](https://github.com/sponsors/biofects?frequency=recurring&sponsor=biofects)
 # 🗣️ My First Piper TTS Voice Training
 
 Welcome to my **very first attempt** at training a custom voice using [Piper TTS](https://github.com/rhasspy/piper) — an open-source, fast, and high-quality text-to-speech engine.
